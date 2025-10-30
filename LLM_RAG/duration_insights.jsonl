@@ -1,0 +1,1 @@
+{"timestamp": "2025-07-04T19:14:44.788070", "duration_insight": "<DurationInsight>\n  <title>Timing for No Queue</title>\n  <condition>When all phases have no vehicles queued...</condition>\n  <timing_heuristic>A fixed value of 10 seconds is optimal.</timing_heuristic>\n</DurationInsight>"}

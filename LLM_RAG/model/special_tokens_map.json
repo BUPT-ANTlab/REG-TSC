@@ -1,0 +1,23 @@
+{
+  "additional_special_tokens": [
+    "<|query_start|>",
+    "<|query_end|>",
+    "<|source_start|>",
+    "<|source_id|>",
+    "<|source_end|>",
+    "<|language_start|>",
+    "<|language_end|>",
+    "<|query_analysis_start|>",
+    "<|query_analysis_end|>",
+    "<|query_report_start|>",
+    "<|query_report_end|>",
+    "<|source_analysis_start|>",
+    "<|source_analysis_end|>",
+    "<|source_report_start|>",
+    "<|source_report_end|>",
+    "<|draft_start|>",
+    "<|draft_end|>",
+    "<|answer_start|>",
+    "<|answer_end|>"
+  ]
+}
