@@ -1,1 +1,1 @@
-# REG-TSC
+# The paper (Retrieval Augmented Generation-Enhanced Distributed LLM Agents for Generalizable Traffic Signal Control with Emergency Vehicles) has been accepted by the 31st IEEE International Conference on Parallel and Distributed Systems (ICPADS 2025).
